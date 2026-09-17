@@ -1,0 +1,12 @@
+{
+  "name": "AuraPulse",
+  "description": "AI-powered aura analysis, energy field visualization, and mindful journaling for personal growth.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision Analysis",
+    "Mindfulness Journaling",
+    "Energy Visualization"
+  ]
+}
